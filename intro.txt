@@ -1,3 +1,29 @@
+=> INTRODUCTION
+
+Goal: Understand why System Design matters.
+
+Key points:
+
+What is System Design?
+Why software engineers need it
+Difference between writing code and designing software
+How companies like Google, Amazon, Netflix design large systems
+
+Takeaway: Coding solves a problem; system design solves how the entire application works efficiently.
+
+
+=> INDEX
+   Requirements gathering
+   Databases
+   APIs
+   Caching
+   Load Balancing
+   Scalability
+   Microservices
+   Security
+   Monitoring
+
+
 
 
 
